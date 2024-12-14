@@ -21,13 +21,6 @@ I am a third-year Computer Science student at **Ben-Gurion University**, passion
 
 ---
 
-## Highlights
-
-### 🌟 **Innovative Projects**
-- **Graph Visualization Tool**: Designed and developed a Python-C hybrid tool to make graph theory more accessible for students.
-- **Ray Tracer**: Currently building a mini ray tracer in C++ to explore the intricacies of computer graphics.
-- **AWS Distributed Systems**: Implemented distributed systems using AWS SQS for efficient communication between multiple nodes.
-
 ### 💡 **Core Strengths**
 - Strong understanding of algorithms and data structures.
 - Experience with both **low-level programming** (e.g., memory management) and **high-level application design**.
