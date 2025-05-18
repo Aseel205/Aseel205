@@ -2,7 +2,7 @@
 
 🎓 **Aseel Nassim Biadsy**
 
-I’m a final-year Computer Science student at **Ben-Gurion University** with a GPA of 88, passionate about solving real-world problems through efficient, scalable, and intelligent software systems. My work spans **systems programming**, **cloud computing**, **distributed systems**, and **machine learning**, with a strong focus on performance and scalability.
+I’m a final-year Computer Science student at **Ben-Gurion University**, passionate about solving real-world problems through efficient, scalable, and intelligent software systems. My work spans **systems programming**, **cloud computing**, **distributed systems**, and **machine learning**, with a strong focus on performance and scalability.
 
 ---
 
