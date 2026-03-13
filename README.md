@@ -45,6 +45,15 @@ My goal is to build technology that **learns, scales, and makes an impact.**
 
 ---
 
+## 💻 GitHub Accounts
+🔹 **Personal GitHub (projects, experiments, and open-source work):**  
+https://github.com/Aseel205  
+
+🔹 **Work GitHub (used for my engineering work at Gong):**  
+https://github.com/asilbiadsy-205  
+
+---
+
 ## 🤝 Let’s Connect  
 📫 [**aseelbiadse.jobs@gmail.com**](mailto:aseelbiadse.jobs@gmail.com)  
 🔗 [**LinkedIn**](https://www.linkedin.com/in/aseel-biadsy-9b5792303/)  
